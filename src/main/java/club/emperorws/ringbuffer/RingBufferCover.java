@@ -1,6 +1,5 @@
 package club.emperorws.ringbuffer;
 
-import club.emperorws.ringbuffer.RingBuffer;
 import club.emperorws.sequence.Sequence;
 
 import java.lang.reflect.Array;
