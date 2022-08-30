@@ -55,11 +55,6 @@
       <version>1.0-SNAPSHOT</version>
     </dependency-->
     <!-- https://mvnrepository.com/artifact/com.lmax/disruptor -->
-    <dependency>
-      <groupId>com.lmax</groupId>
-      <artifactId>disruptor</artifactId>
-      <version>4.0.0.RC1</version>
-    </dependency>
   </dependencies>
 
 </project>
